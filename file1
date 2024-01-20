@@ -1,1 +1,5 @@
-This s file1
+<<<<<<< HEAD
+=======
+this is file1
+second line in file1
+>>>>>>> 2b722fd (second line added in file1)
